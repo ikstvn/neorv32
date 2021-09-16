@@ -619,9 +619,9 @@ To test that this logic works, we then continue writing a test in the [software 
 
 You now can proceed to perform the compilation of this test and upload the program into the board.
 
-If everything goes well you will have something like this:
+If everything goes well, you will have something like this:
 
 ![video](./docs/figures/test.gif)
 
-Well done! You have add your own custom module! 🔥🔥🔥
+Well done! You have added your own custom module! 🔥🔥🔥
 
